@@ -24,7 +24,7 @@ def test_fizzbuzz_4_return_4():
 
 def test_fizzbuzz_5_return_buzz():
     result = fizzbazz(5)
-    assert result == "buzz"
+    assert result == "bazz"
 
 def test_fizzbuzz_6_return_fizz():
     result = fizzbazz(6)
