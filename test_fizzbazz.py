@@ -30,6 +30,9 @@ def test_fizzbuzz_6_return_fizz():
     result = fizzbazz(6)
     assert result == "fizz"
 
+def test_fizzbuzz_15_return_fizzbuzz():
+    result = fizzbazz(15)
+    assert result == "fizzbazz"
 
 
 
