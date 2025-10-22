@@ -5,5 +5,7 @@ def fizzbazz(n: int) -> str:
         return "2"
     if n==3:
         return "fizz"
+    if n==4:
+        return "4"
     return "fizzbazz"
 
