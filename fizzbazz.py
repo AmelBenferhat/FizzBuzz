@@ -9,5 +9,7 @@ def fizzbazz(n: int) -> str:
         return "4"
     if n==5:
         return "buzz"
+    if n==6:
+        return "fizz"
     return "fizzbazz"
 
