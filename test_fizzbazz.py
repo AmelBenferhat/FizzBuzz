@@ -9,6 +9,9 @@ def test_fizzbuzz_1_return_1():
     result = fizzbazz(1)
     assert result == "1"
 
+def test_fizzbuzz_2_return_2():
+    result = fizzbazz(2)
+    assert result == "2"
 
 
 
